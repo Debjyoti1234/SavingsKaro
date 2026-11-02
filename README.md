@@ -12,5 +12,5 @@
 ```bash
 
 
-Sacingskaro
-git clone https://github.com/YOUR_USERNAME/SmartSpend.git
+SavingsKaro
+https://github.com/Debjyoti1234/SavingsKaro.git
