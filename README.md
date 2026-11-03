@@ -5,7 +5,7 @@
 - Matplotlib – Data visualization
 - Tkinter – Graphical User Interface
 
-## ✨ Features
+### ✨ Features
 
 - Expense tracking
 - Income management
