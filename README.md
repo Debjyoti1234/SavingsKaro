@@ -1,4 +1,4 @@
-## 🛠️ Technologies Used
+### 🛠️ Technologies Used
 
 - Python – Core programming language
 - SQLite – Database management
